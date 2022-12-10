@@ -1,0 +1,14 @@
+.show {
+    display: none;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.list__item {
+    max-width: 300px;
+}
